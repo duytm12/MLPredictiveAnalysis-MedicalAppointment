@@ -262,7 +262,7 @@ This project is for educational and portfolio purposes. The analysis methodology
 **Project**: Medical Appointments No-Shows Analysis - Capstone  
 **Institution**: Western Governors University  
 **Program**: Bachelor of Science in Data Analytics  
-**Date**: 2024  
+**Date**: August 2025  
 **Skills**: Data Science, Machine Learning, Statistical Analysis, Python, Healthcare Analytics
 
 ---
